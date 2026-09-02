@@ -1,2 +1,5 @@
 name = "Alice"
-print("Hello world,  I am " + name)
+age = 32
+
+print(f"Hello, World! My name is {name}, and I am {age} years old.")
+print("Welcome to Python programming!")
